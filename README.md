@@ -41,11 +41,11 @@ The game depends on a file named `validwords.txt`, which should contain a list o
 
 1. Compile the program using a C++ compiler, for example:
    ```bash
-   g++ -o wordle wordle.cpp
+   g++ -o wordle project.cpp
    ```
 2. Run the executable:
    ```bash
-   ./wordle
+   ./project
    ```
 3. Follow the prompts to play the game.
 
