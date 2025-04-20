@@ -142,7 +142,7 @@ int main(){
     int wrong_count=0;
     int right_count=0;
     while(play){
-        string word="GODLY";
+        string word=randomwordpicker();
         word=upperword(word);
         int guesscount=0;
         bool won=false;
