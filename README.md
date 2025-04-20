@@ -45,7 +45,7 @@ The game depends on a file named `validwords.txt`, which should contain a list o
    ```
 2. Run the executable:
    ```bash
-   ./project
+   ./wordle
    ```
 3. Follow the prompts to play the game.
 
