@@ -71,6 +71,7 @@ string genstring(string s,string t){
         if(p[i]=='R'){
             if(h1[t[i]]>0){
                 p[i]='Y';
+                h1[t[i]]--;
             }
         }
     }
