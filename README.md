@@ -76,7 +76,7 @@ The game depends on a file named `validwords.txt`, which should contain a list o
 ```
 Welcome to Wordle
 Enter a 5 Letter Word to Guess: adieu
-Guess 1: 🟥🟨⬜⬜🟥
+Guess 1: 🟨⬜⬜⬜⬜
 Enter a 5 Letter Word to Guess: party
 Guess 2: 🟩🟩🟨⬜⬜
 Enter a 5 Letter Word to Guess: paste
